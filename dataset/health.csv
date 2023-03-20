@@ -1,0 +1,307 @@
+	state	value	item	year	id
+0	Alabama	13179	Total DAHE 2015 (million $)	2015	1
+1	Alabama	8191	Total DAHE 2003 (million $)	2003	1
+2	Alabama	61	Total DAHE Change (%)	2015	1
+3	Alabama	12603	DAHE per person with disability 2015 ($)	2015	1
+4	Alabama	12619	DAHE per person with disability 2003 ($)	2003	1
+5	Alabama	0	DAHE per person with disability change (%)	2015	1
+6	Alaska	2247	Total DAHE 2015 (million $)	2015	2
+7	Alaska	1282	Total DAHE 2003 (million $)	2003	2
+8	Alaska	75	Total DAHE Change (%)	2015	2
+9	Alaska	20497	DAHE per person with disability 2015 ($)	2015	2
+10	Alaska	17237	DAHE per person with disability 2003 ($)	2003	2
+11	Alaska	19	DAHE per person with disability change (%)	2015	2
+12	Arizona	14849	Total DAHE 2015 (million $)	2015	4
+13	Arizona	6769	Total DAHE 2003 (million $)	2003	4
+14	Arizona	119	Total DAHE Change (%)	2015	4
+15	Arizona	14326	DAHE per person with disability 2015 ($)	2015	4
+16	Arizona	10569	DAHE per person with disability 2003 ($)	2003	4
+17	Arizona	36	DAHE per person with disability change (%)	2015	4
+18	Arkansas	8616	Total DAHE 2015 (million $)	2015	5
+19	Arkansas	4868	Total DAHE 2003 (million $)	2003	5
+20	Arkansas	77	Total DAHE Change (%)	2015	5
+21	Arkansas	13955	DAHE per person with disability 2015 ($)	2015	5
+22	Arkansas	12617	DAHE per person with disability 2003 ($)	2003	5
+23	Arkansas	11	DAHE per person with disability change (%)	2015	5
+24	California	102811	Total DAHE 2015 (million $)	2015	6
+25	California	50679	Total DAHE 2003 (million $)	2003	6
+26	California	103	Total DAHE Change (%)	2015	6
+27	California	19949	DAHE per person with disability 2015 ($)	2015	6
+28	California	12414	DAHE per person with disability 2003 ($)	2003	6
+29	California	61	DAHE per person with disability change (%)	2015	6
+30	Colorado	12013	Total DAHE 2015 (million $)	2015	8
+31	Colorado	5815	Total DAHE 2003 (million $)	2003	8
+32	Colorado	107	Total DAHE Change (%)	2015	8
+33	Colorado	15935	DAHE per person with disability 2015 ($)	2015	8
+34	Colorado	11415	DAHE per person with disability 2003 ($)	2003	8
+35	Colorado	40	DAHE per person with disability change (%)	2015	8
+36	Connecticut	12450	Total DAHE 2015 (million $)	2015	9
+37	Connecticut	8403	Total DAHE 2003 (million $)	2003	9
+38	Connecticut	48	Total DAHE Change (%)	2015	9
+39	Connecticut	21927	DAHE per person with disability 2015 ($)	2015	9
+40	Connecticut	22574	DAHE per person with disability 2003 ($)	2003	9
+41	Connecticut	-3	DAHE per person with disability change (%)	2015	9
+42	Delaware	3131	Total DAHE 2015 (million $)	2015	10
+43	Delaware	1621	Total DAHE 2003 (million $)	2003	10
+44	Delaware	93	Total DAHE Change (%)	2015	10
+45	Delaware	20889	DAHE per person with disability 2015 ($)	2015	10
+46	Delaware	18643	DAHE per person with disability 2003 ($)	2003	10
+47	Delaware	12	DAHE per person with disability change (%)	2015	10
+48	District of Columbia	2654	Total DAHE 2015 (million $)	2015	11
+49	District of Columbia	1658	Total DAHE 2003 (million $)	2003	11
+50	District of Columbia	60	Total DAHE Change (%)	2015	11
+51	District of Columbia	27839	DAHE per person with disability 2015 ($)	2015	11
+52	District of Columbia	29810	DAHE per person with disability 2003 ($)	2003	11
+53	District of Columbia	-7	DAHE per person with disability change (%)	2015	11
+54	Florida	53147	Total DAHE 2015 (million $)	2015	12
+55	Florida	30674	Total DAHE 2003 (million $)	2003	12
+56	Florida	73	Total DAHE Change (%)	2015	12
+57	Florida	15811	DAHE per person with disability 2015 ($)	2015	12
+58	Florida	14209	DAHE per person with disability 2003 ($)	2003	12
+59	Florida	11	DAHE per person with disability change (%)	2015	12
+60	Georgia	20298	Total DAHE 2015 (million $)	2015	13
+61	Georgia	13453	Total DAHE 2003 (million $)	2003	13
+62	Georgia	51	Total DAHE Change (%)	2015	13
+63	Georgia	13543	DAHE per person with disability 2015 ($)	2015	13
+64	Georgia	13841	DAHE per person with disability 2003 ($)	2003	13
+65	Georgia	-2	DAHE per person with disability change (%)	2015	13
+66	Hawaii	3035	Total DAHE 2015 (million $)	2015	15
+67	Hawaii	1349	Total DAHE 2003 (million $)	2003	15
+68	Hawaii	125	Total DAHE Change (%)	2015	15
+69	Hawaii	17721	DAHE per person with disability 2015 ($)	2015	15
+70	Hawaii	17296	DAHE per person with disability 2003 ($)	2003	15
+71	Hawaii	2	DAHE per person with disability change (%)	2015	15
+72	Idaho	3543	Total DAHE 2015 (million $)	2015	16
+73	Idaho	1983	Total DAHE 2003 (million $)	2003	16
+74	Idaho	79	Total DAHE Change (%)	2015	16
+75	Idaho	14059	DAHE per person with disability 2015 ($)	2015	16
+76	Idaho	11295	DAHE per person with disability 2003 ($)	2003	16
+77	Idaho	24	DAHE per person with disability change (%)	2015	16
+78	Illinois	32751	Total DAHE 2015 (million $)	2015	17
+79	Illinois	21216	Total DAHE 2003 (million $)	2003	17
+80	Illinois	54	Total DAHE Change (%)	2015	17
+81	Illinois	18881	DAHE per person with disability 2015 ($)	2015	17
+82	Illinois	19680	DAHE per person with disability 2003 ($)	2003	17
+83	Illinois	-4	DAHE per person with disability change (%)	2015	17
+84	Indiana	18659	Total DAHE 2015 (million $)	2015	18
+85	Indiana	11081	Total DAHE 2003 (million $)	2003	18
+86	Indiana	68	Total DAHE Change (%)	2015	18
+87	Indiana	16973	DAHE per person with disability 2015 ($)	2015	18
+88	Indiana	15476	DAHE per person with disability 2003 ($)	2003	18
+89	Indiana	10	DAHE per person with disability change (%)	2015	18
+90	Iowa	8308	Total DAHE 2015 (million $)	2015	19
+91	Iowa	5198	Total DAHE 2003 (million $)	2003	19
+92	Iowa	60	Total DAHE Change (%)	2015	19
+93	Iowa	17819	DAHE per person with disability 2015 ($)	2015	19
+94	Iowa	15753	DAHE per person with disability 2003 ($)	2003	19
+95	Iowa	13	DAHE per person with disability change (%)	2015	19
+96	Kansas	6874	Total DAHE 2015 (million $)	2015	20
+97	Kansas	4484	Total DAHE 2003 (million $)	2003	20
+98	Kansas	53	Total DAHE Change (%)	2015	20
+99	Kansas	15746	DAHE per person with disability 2015 ($)	2015	20
+100	Kansas	14852	DAHE per person with disability 2003 ($)	2003	20
+101	Kansas	6	DAHE per person with disability change (%)	2015	20
+102	Kentucky	13951	Total DAHE 2015 (million $)	2015	21
+103	Kentucky	7713	Total DAHE 2003 (million $)	2003	21
+104	Kentucky	81	Total DAHE Change (%)	2015	21
+105	Kentucky	15177	DAHE per person with disability 2015 ($)	2015	21
+106	Kentucky	13362	DAHE per person with disability 2003 ($)	2003	21
+107	Kentucky	14	DAHE per person with disability change (%)	2015	21
+108	Louisiana	13315	Total DAHE 2015 (million $)	2015	22
+109	Louisiana	8738	Total DAHE 2003 (million $)	2003	22
+110	Louisiana	52	Total DAHE Change (%)	2015	22
+111	Louisiana	16752	DAHE per person with disability 2015 ($)	2015	22
+112	Louisiana	18559	DAHE per person with disability 2003 ($)	2003	22
+113	Louisiana	-10	DAHE per person with disability change (%)	2015	22
+114	Maine	4490	Total DAHE 2015 (million $)	2015	23
+115	Maine	3204	Total DAHE 2003 (million $)	2003	23
+116	Maine	40	Total DAHE Change (%)	2015	23
+117	Maine	18219	DAHE per person with disability 2015 ($)	2015	23
+118	Maine	18023	DAHE per person with disability 2003 ($)	2003	23
+119	Maine	1	DAHE per person with disability change (%)	2015	23
+120	Maryland	16965	Total DAHE 2015 (million $)	2015	24
+121	Maryland	9648	Total DAHE 2003 (million $)	2003	24
+122	Maryland	76	Total DAHE Change (%)	2015	24
+123	Maryland	21118	DAHE per person with disability 2015 ($)	2015	24
+124	Maryland	16604	DAHE per person with disability 2003 ($)	2003	24
+125	Maryland	27	DAHE per person with disability change (%)	2015	24
+126	Massachusetts	24841	Total DAHE 2015 (million $)	2015	25
+127	Massachusetts	15451	Total DAHE 2003 (million $)	2003	25
+128	Massachusetts	61	Total DAHE Change (%)	2015	25
+129	Massachusetts	22017	DAHE per person with disability 2015 ($)	2015	25
+130	Massachusetts	21091	DAHE per person with disability 2003 ($)	2003	25
+131	Massachusetts	4	DAHE per person with disability change (%)	2015	25
+132	Michigan	28174	Total DAHE 2015 (million $)	2015	26
+133	Michigan	18058	Total DAHE 2003 (million $)	2003	26
+134	Michigan	56	Total DAHE Change (%)	2015	26
+135	Michigan	15868	DAHE per person with disability 2015 ($)	2015	26
+136	Michigan	13937	DAHE per person with disability 2003 ($)	2003	26
+137	Michigan	14	DAHE per person with disability change (%)	2015	26
+138	Minnesota	15457	Total DAHE 2015 (million $)	2015	27
+139	Minnesota	10343	Total DAHE 2003 (million $)	2003	27
+140	Minnesota	49	Total DAHE Change (%)	2015	27
+141	Minnesota	21267	DAHE per person with disability 2015 ($)	2015	27
+142	Minnesota	15318	DAHE per person with disability 2003 ($)	2003	27
+143	Minnesota	39	DAHE per person with disability change (%)	2015	27
+144	Mississippi	8695	Total DAHE 2015 (million $)	2015	28
+145	Mississippi	6025	Total DAHE 2003 (million $)	2003	28
+146	Mississippi	44	Total DAHE Change (%)	2015	28
+147	Mississippi	15483	DAHE per person with disability 2015 ($)	2015	28
+148	Mississippi	15328	DAHE per person with disability 2003 ($)	2003	28
+149	Mississippi	0	DAHE per person with disability change (%)	2015	28
+150	Missouri	17830	Total DAHE 2015 (million $)	2015	29
+151	Missouri	11796	Total DAHE 2003 (million $)	2003	29
+152	Missouri	51	Total DAHE Change (%)	2015	29
+153	Missouri	15359	DAHE per person with disability 2015 ($)	2015	29
+154	Missouri	14746	DAHE per person with disability 2003 ($)	2003	29
+155	Missouri	4	DAHE per person with disability change (%)	2015	29
+156	Montana	2581	Total DAHE 2015 (million $)	2015	30
+157	Montana	1442	Total DAHE 2003 (million $)	2003	30
+158	Montana	79	Total DAHE Change (%)	2015	30
+159	Montana	13638	DAHE per person with disability 2015 ($)	2015	30
+160	Montana	12136	DAHE per person with disability 2003 ($)	2003	30
+161	Montana	12	DAHE per person with disability change (%)	2015	30
+162	Nebraska	4628	Total DAHE 2015 (million $)	2015	31
+163	Nebraska	3101	Total DAHE 2003 (million $)	2003	31
+164	Nebraska	49	Total DAHE Change (%)	2015	31
+165	Nebraska	17500	DAHE per person with disability 2015 ($)	2015	31
+166	Nebraska	16025	DAHE per person with disability 2003 ($)	2003	31
+167	Nebraska	9	DAHE per person with disability change (%)	2015	31
+168	Nevada	5995	Total DAHE 2015 (million $)	2015	32
+169	Nevada	2775	Total DAHE 2003 (million $)	2003	32
+170	Nevada	116	Total DAHE Change (%)	2015	32
+171	Nevada	14225	DAHE per person with disability 2015 ($)	2015	32
+172	Nevada	10381	DAHE per person with disability 2003 ($)	2003	32
+173	Nevada	37	DAHE per person with disability change (%)	2015	32
+174	New Hampshire	3740	Total DAHE 2015 (million $)	2015	33
+175	New Hampshire	2193	Total DAHE 2003 (million $)	2003	33
+176	New Hampshire	71	Total DAHE Change (%)	2015	33
+177	New Hampshire	17463	DAHE per person with disability 2015 ($)	2015	33
+178	New Hampshire	14344	DAHE per person with disability 2003 ($)	2003	33
+179	New Hampshire	22	DAHE per person with disability change (%)	2015	33
+180	New Jersey	24784	Total DAHE 2015 (million $)	2015	34
+181	New Jersey	16477	Total DAHE 2003 (million $)	2003	34
+182	New Jersey	50	Total DAHE Change (%)	2015	34
+183	New Jersey	21415	DAHE per person with disability 2015 ($)	2015	34
+184	New Jersey	19200	DAHE per person with disability 2003 ($)	2003	34
+185	New Jersey	12	DAHE per person with disability change (%)	2015	34
+186	New Mexico	5070	Total DAHE 2015 (million $)	2015	35
+187	New Mexico	2865	Total DAHE 2003 (million $)	2003	35
+188	New Mexico	77	Total DAHE Change (%)	2015	35
+189	New Mexico	14518	DAHE per person with disability 2015 ($)	2015	35
+190	New Mexico	12249	DAHE per person with disability 2003 ($)	2003	35
+191	New Mexico	19	DAHE per person with disability change (%)	2015	35
+192	New York	71811	Total DAHE 2015 (million $)	2015	36
+193	New York	53166	Total DAHE 2003 (million $)	2003	36
+194	New York	35	Total DAHE Change (%)	2015	36
+195	New York	23101	DAHE per person with disability 2015 ($)	2015	36
+196	New York	24747	DAHE per person with disability 2003 ($)	2003	36
+197	New York	-7	DAHE per person with disability change (%)	2015	36
+198	North Carolina	25033	Total DAHE 2015 (million $)	2015	37
+199	North Carolina	14863	Total DAHE 2003 (million $)	2003	37
+200	North Carolina	68	Total DAHE Change (%)	2015	37
+201	North Carolina	15230	DAHE per person with disability 2015 ($)	2015	37
+202	North Carolina	16185	DAHE per person with disability 2003 ($)	2003	37
+203	North Carolina	-6	DAHE per person with disability change (%)	2015	37
+204	North Dakota	2043	Total DAHE 2015 (million $)	2015	38
+205	North Dakota	1152	Total DAHE 2003 (million $)	2003	38
+206	North Dakota	77	Total DAHE Change (%)	2015	38
+207	North Dakota	20352	DAHE per person with disability 2015 ($)	2015	38
+208	North Dakota	17132	DAHE per person with disability 2003 ($)	2003	38
+209	North Dakota	19	DAHE per person with disability change (%)	2015	38
+210	Ohio	35021	Total DAHE 2015 (million $)	2015	39
+211	Ohio	25110	Total DAHE 2003 (million $)	2003	39
+212	Ohio	39	Total DAHE Change (%)	2015	39
+213	Ohio	17732	DAHE per person with disability 2015 ($)	2015	39
+214	Ohio	17528	DAHE per person with disability 2003 ($)	2003	39
+215	Ohio	1	DAHE per person with disability change (%)	2015	39
+216	Oklahoma	10529	Total DAHE 2015 (million $)	2015	40
+217	Oklahoma	6230	Total DAHE 2003 (million $)	2003	40
+218	Oklahoma	69	Total DAHE Change (%)	2015	40
+219	Oklahoma	13946	DAHE per person with disability 2015 ($)	2015	40
+220	Oklahoma	12207	DAHE per person with disability 2003 ($)	2003	40
+221	Oklahoma	14	DAHE per person with disability change (%)	2015	40
+222	Oregon	11900	Total DAHE 2015 (million $)	2015	41
+223	Oregon	5670	Total DAHE 2003 (million $)	2003	41
+224	Oregon	110	Total DAHE Change (%)	2015	41
+225	Oregon	16127	DAHE per person with disability 2015 ($)	2015	41
+226	Oregon	10424	DAHE per person with disability 2003 ($)	2003	41
+227	Oregon	55	DAHE per person with disability change (%)	2015	41
+228	Pennsylvania	41527	Total DAHE 2015 (million $)	2015	42
+229	Pennsylvania	27192	Total DAHE 2003 (million $)	2003	42
+230	Pennsylvania	53	Total DAHE Change (%)	2015	42
+231	Pennsylvania	19241	DAHE per person with disability 2015 ($)	2015	42
+232	Pennsylvania	17799	DAHE per person with disability 2003 ($)	2003	42
+233	Pennsylvania	8	DAHE per person with disability change (%)	2015	42
+234	Rhode Island	3670	Total DAHE 2015 (million $)	2015	44
+235	Rhode Island	2368	Total DAHE 2003 (million $)	2003	44
+236	Rhode Island	55	Total DAHE Change (%)	2015	44
+237	Rhode Island	20174	DAHE per person with disability 2015 ($)	2015	44
+238	Rhode Island	19677	DAHE per person with disability 2003 ($)	2003	44
+239	Rhode Island	3	DAHE per person with disability change (%)	2015	44
+240	South Carolina	12237	Total DAHE 2015 (million $)	2015	45
+241	South Carolina	7335	Total DAHE 2003 (million $)	2003	45
+242	South Carolina	67	Total DAHE Change (%)	2015	45
+243	South Carolina	13807	DAHE per person with disability 2015 ($)	2015	45
+244	South Carolina	15010	DAHE per person with disability 2003 ($)	2003	45
+245	South Carolina	-8	DAHE per person with disability change (%)	2015	45
+246	South Dakota	2201	Total DAHE 2015 (million $)	2015	46
+247	South Dakota	1346	Total DAHE 2003 (million $)	2003	46
+248	South Dakota	63	Total DAHE Change (%)	2015	46
+249	South Dakota	16489	DAHE per person with disability 2015 ($)	2015	46
+250	South Dakota	14196	DAHE per person with disability 2003 ($)	2003	46
+251	South Dakota	16	DAHE per person with disability change (%)	2015	46
+252	Tennessee	17509	Total DAHE 2015 (million $)	2015	47
+253	Tennessee	11675	Total DAHE 2003 (million $)	2003	47
+254	Tennessee	50	Total DAHE Change (%)	2015	47
+255	Tennessee	13925	DAHE per person with disability 2015 ($)	2015	47
+256	Tennessee	17496	DAHE per person with disability 2003 ($)	2003	47
+257	Tennessee	-20	DAHE per person with disability change (%)	2015	47
+258	Texas	56664	Total DAHE 2015 (million $)	2015	48
+259	Texas	31883	Total DAHE 2003 (million $)	2003	48
+260	Texas	78	Total DAHE Change (%)	2015	48
+261	Texas	17189	DAHE per person with disability 2015 ($)	2015	48
+262	Texas	13553	DAHE per person with disability 2003 ($)	2003	48
+263	Texas	27	DAHE per person with disability change (%)	2015	48
+264	Utah	4833	Total DAHE 2015 (million $)	2015	49
+265	Utah	2658	Total DAHE 2003 (million $)	2003	49
+266	Utah	82	Total DAHE Change (%)	2015	49
+267	Utah	14112	DAHE per person with disability 2015 ($)	2015	49
+268	Utah	10430	DAHE per person with disability 2003 ($)	2003	49
+269	Utah	35	DAHE per person with disability change (%)	2015	49
+270	Vermont	2197	Total DAHE 2015 (million $)	2015	50
+271	Vermont	1248	Total DAHE 2003 (million $)	2003	50
+272	Vermont	76	Total DAHE Change (%)	2015	50
+273	Vermont	20096	DAHE per person with disability 2015 ($)	2015	50
+274	Vermont	15715	DAHE per person with disability 2003 ($)	2003	50
+275	Vermont	28	DAHE per person with disability change (%)	2015	50
+276	Virginia	18359	Total DAHE 2015 (million $)	2015	51
+277	Virginia	10571	Total DAHE 2003 (million $)	2003	51
+278	Virginia	74	Total DAHE Change (%)	2015	51
+279	Virginia	15766	DAHE per person with disability 2015 ($)	2015	51
+280	Virginia	12595	DAHE per person with disability 2003 ($)	2003	51
+281	Virginia	25	DAHE per person with disability change (%)	2015	51
+282	Washington	19524	Total DAHE 2015 (million $)	2015	53
+283	Washington	10719	Total DAHE 2003 (million $)	2003	53
+284	Washington	82	Total DAHE Change (%)	2015	53
+285	Washington	15068	DAHE per person with disability 2015 ($)	2015	53
+286	Washington	11766	DAHE per person with disability 2003 ($)	2003	53
+287	Washington	28	DAHE per person with disability change (%)	2015	53
+288	West Virginia	6665	Total DAHE 2015 (million $)	2015	54
+289	West Virginia	4306	Total DAHE 2003 (million $)	2003	54
+290	West Virginia	55	Total DAHE Change (%)	2015	54
+291	West Virginia	15494	DAHE per person with disability 2015 ($)	2015	54
+292	West Virginia	13211	DAHE per person with disability 2003 ($)	2003	54
+293	West Virginia	17	DAHE per person with disability change (%)	2015	54
+294	Wisconsin	15843	Total DAHE 2015 (million $)	2015	55
+295	Wisconsin	10272	Total DAHE 2003 (million $)	2003	55
+296	Wisconsin	54	Total DAHE Change (%)	2015	55
+297	Wisconsin	18320	DAHE per person with disability 2015 ($)	2015	55
+298	Wisconsin	16041	DAHE per person with disability 2003 ($)	2003	55
+299	Wisconsin	14	DAHE per person with disability change (%)	2015	55
+300	Wyoming	1387	Total DAHE 2015 (million $)	2015	56
+301	Wyoming	793	Total DAHE 2003 (million $)	2003	56
+302	Wyoming	75	Total DAHE Change (%)	2015	56
+303	Wyoming	14821	DAHE per person with disability 2015 ($)	2015	56
+304	Wyoming	12726	DAHE per person with disability 2003 ($)	2003	56
+305	Wyoming	16	DAHE per person with disability change (%)	2015	56

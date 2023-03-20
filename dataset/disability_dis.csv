@@ -1,0 +1,307 @@
+	state_x	total	dis	count	health_per	dis_per	dis_type	state_y	abbrev	code	state	id
+0	MO	6028475	888763	252940	4.2	28.5	Hearing	Missouri	Mo.	MO	Missouri	29
+1	MO	6028475	888763	157493	2.6	17.7	Vision	Missouri	Mo.	MO	Missouri	29
+2	MO	6028475	888763	353181	5.9	39.7	Cognitive	Missouri	Mo.	MO	Missouri	29
+3	MO	6028475	888763	463202	7.7	52.1	Ambulatory	Missouri	Mo.	MO	Missouri	29
+4	MO	6028475	888763	165516	2.7	18.6	Self-Care	Missouri	Mo.	MO	Missouri	29
+5	MO	6028475	888763	329754	5.5	37.1	Independent Living	Missouri	Mo.	MO	Missouri	29
+6	AL	4822516	776991	209879	4.4	27.0	Hearing	Alabama	Ala.	AL	Alabama	1
+7	AL	4822516	776991	157503	3.3	20.3	Vision	Alabama	Ala.	AL	Alabama	1
+8	AL	4822516	776991	285317	5.9	36.7	Cognitive	Alabama	Ala.	AL	Alabama	1
+9	AL	4822516	776991	424732	8.8	54.7	Ambulatory	Alabama	Ala.	AL	Alabama	1
+10	AL	4822516	776991	145049	3.0	18.7	Self-Care	Alabama	Ala.	AL	Alabama	1
+11	AL	4822516	776991	277840	5.8	35.8	Independent Living	Alabama	Ala.	AL	Alabama	1
+12	MT	1052964	139511	51291	4.9	36.8	Hearing	Montana	Mont.	MT	Montana	30
+13	MT	1052964	139511	22710	2.2	16.3	Vision	Montana	Mont.	MT	Montana	30
+14	MT	1052964	139511	49802	4.7	35.7	Cognitive	Montana	Mont.	MT	Montana	30
+15	MT	1052964	139511	67633	6.4	48.5	Ambulatory	Montana	Mont.	MT	Montana	30
+16	MT	1052964	139511	22031	2.1	15.8	Self-Care	Montana	Mont.	MT	Montana	30
+17	MT	1052964	139511	46101	4.4	33.0	Independent Living	Montana	Mont.	MT	Montana	30
+18	AK	707254	81224	31438	4.4	38.7	Hearing	Alaska	Alaska	AK	Alaska	2
+19	AK	707254	81224	14867	2.1	18.3	Vision	Alaska	Alaska	AK	Alaska	2
+20	AK	707254	81224	29879	4.2	36.8	Cognitive	Alaska	Alaska	AK	Alaska	2
+21	AK	707254	81224	37366	5.3	46.0	Ambulatory	Alaska	Alaska	AK	Alaska	2
+22	AK	707254	81224	12925	1.8	15.9	Self-Care	Alaska	Alaska	AK	Alaska	2
+23	AK	707254	81224	23347	3.3	28.7	Independent Living	Alaska	Alaska	AK	Alaska	2
+24	NE	1905059	228223	77410	4.1	33.9	Hearing	Nebraska	Nebr.	NE	Nebraska	31
+25	NE	1905059	228223	40699	2.1	17.8	Vision	Nebraska	Nebr.	NE	Nebraska	31
+26	NE	1905059	228223	79044	4.1	34.6	Cognitive	Nebraska	Nebr.	NE	Nebraska	31
+27	NE	1905059	228223	108769	5.7	47.7	Ambulatory	Nebraska	Nebr.	NE	Nebraska	31
+28	NE	1905059	228223	39001	2.0	17.1	Self-Care	Nebraska	Nebr.	NE	Nebraska	31
+29	NE	1905059	228223	70890	3.7	31.1	Independent Living	Nebraska	Nebr.	NE	Nebraska	31
+30	AZ	7166899	939236	286214	4.0	30.5	Hearing	Arizona	Ariz.	AZ	Arizona	4
+31	AZ	7166899	939236	173175	2.4	18.4	Vision	Arizona	Ariz.	AZ	Arizona	4
+32	AZ	7166899	939236	342165	4.8	36.4	Cognitive	Arizona	Ariz.	AZ	Arizona	4
+33	AZ	7166899	939236	466693	6.5	49.7	Ambulatory	Arizona	Ariz.	AZ	Arizona	4
+34	AZ	7166899	939236	158689	2.2	16.9	Self-Care	Arizona	Ariz.	AZ	Arizona	4
+35	AZ	7166899	939236	322039	4.5	34.3	Independent Living	Arizona	Ariz.	AZ	Arizona	4
+36	NV	3043543	372627	109730	3.6	29.4	Hearing	Nevada	Nev.	NV	Nevada	32
+37	NV	3043543	372627	70911	2.3	19.0	Vision	Nevada	Nev.	NV	Nevada	32
+38	NV	3043543	372627	131504	4.3	35.3	Cognitive	Nevada	Nev.	NV	Nevada	32
+39	NV	3043543	372627	196580	6.5	52.8	Ambulatory	Nevada	Nev.	NV	Nevada	32
+40	NV	3043543	372627	71362	2.3	19.2	Self-Care	Nevada	Nev.	NV	Nevada	32
+41	NV	3043543	372627	130615	4.3	35.1	Independent Living	Nevada	Nev.	NV	Nevada	32
+42	AR	2961735	518118	149015	5.0	28.8	Hearing	Arkansas	Ark.	AR	Arkansas	5
+43	AR	2961735	518118	101411	3.4	19.6	Vision	Arkansas	Ark.	AR	Arkansas	5
+44	AR	2961735	518118	199379	6.7	38.5	Cognitive	Arkansas	Ark.	AR	Arkansas	5
+45	AR	2961735	518118	284795	9.6	55.0	Ambulatory	Arkansas	Ark.	AR	Arkansas	5
+46	AR	2961735	518118	100668	3.4	19.4	Self-Care	Arkansas	Ark.	AR	Arkansas	5
+47	AR	2961735	518118	183789	6.2	35.5	Independent Living	Arkansas	Ark.	AR	Arkansas	5
+48	NH	1343295	172882	46323	3.4	26.8	Hearing	New Hampshire	N.H.	NH	New Hampshire	33
+49	NH	1343295	172882	26677	2.0	15.4	Vision	New Hampshire	N.H.	NH	New Hampshire	33
+50	NH	1343295	172882	68001	5.1	39.3	Cognitive	New Hampshire	N.H.	NH	New Hampshire	33
+51	NH	1343295	172882	80737	6.0	46.7	Ambulatory	New Hampshire	N.H.	NH	New Hampshire	33
+52	NH	1343295	172882	26571	2.0	15.4	Self-Care	New Hampshire	N.H.	NH	New Hampshire	33
+53	NH	1343295	172882	57356	4.3	33.2	Independent Living	New Hampshire	N.H.	NH	New Hampshire	33
+54	CA	39007866	4131700	1153006	3.0	27.9	Hearing	California	Calif.	CA	California	6
+55	CA	39007866	4131700	746326	1.9	18.1	Vision	California	Calif.	CA	California	6
+56	CA	39007866	4131700	1577238	4.0	38.2	Cognitive	California	Calif.	CA	California	6
+57	CA	39007866	4131700	2108334	5.4	51.0	Ambulatory	California	Calif.	CA	California	6
+58	CA	39007866	4131700	971130	2.5	23.5	Self-Care	California	Calif.	CA	California	6
+59	CA	39007866	4131700	1672446	4.3	40.5	Independent Living	California	Calif.	CA	California	6
+60	NJ	8776794	908500	220965	2.5	24.3	Hearing	New Jersey	N.J.	NJ	New Jersey	34
+61	NJ	8776794	908500	170826	1.9	18.8	Vision	New Jersey	N.J.	NJ	New Jersey	34
+62	NJ	8776794	908500	346364	3.9	38.1	Cognitive	New Jersey	N.J.	NJ	New Jersey	34
+63	NJ	8776794	908500	473536	5.4	52.1	Ambulatory	New Jersey	N.J.	NJ	New Jersey	34
+64	NJ	8776794	908500	196061	2.2	21.6	Self-Care	New Jersey	N.J.	NJ	New Jersey	34
+65	NJ	8776794	908500	361160	4.1	39.8	Independent Living	New Jersey	N.J.	NJ	New Jersey	34
+66	CO	5664136	599443	198317	3.5	33.1	Hearing	Colorado	Colo.	CO	Colorado	8
+67	CO	5664136	599443	108260	1.9	18.1	Vision	Colorado	Colo.	CO	Colorado	8
+68	CO	5664136	599443	223954	4.0	37.4	Cognitive	Colorado	Colo.	CO	Colorado	8
+69	CO	5664136	599443	266974	4.7	44.5	Ambulatory	Colorado	Colo.	CO	Colorado	8
+70	CO	5664136	599443	95497	1.7	15.9	Self-Care	Colorado	Colo.	CO	Colorado	8
+71	CO	5664136	599443	196506	3.5	32.8	Independent Living	Colorado	Colo.	CO	Colorado	8
+72	NM	2058682	327218	103535	5.0	31.6	Hearing	New Mexico	N.M.	NM	New Mexico	35
+73	NM	2058682	327218	78596	3.8	24.0	Vision	New Mexico	N.M.	NM	New Mexico	35
+74	NM	2058682	327218	133071	6.5	40.7	Cognitive	New Mexico	N.M.	NM	New Mexico	35
+75	NM	2058682	327218	170688	8.3	52.2	Ambulatory	New Mexico	N.M.	NM	New Mexico	35
+76	NM	2058682	327218	67096	3.3	20.5	Self-Care	New Mexico	N.M.	NM	New Mexico	35
+77	NM	2058682	327218	116576	5.7	35.6	Independent Living	New Mexico	N.M.	NM	New Mexico	35
+78	CT	3516334	416285	104556	3.0	25.1	Hearing	Connecticut	Conn.	CT	Connecticut	9
+79	CT	3516334	416285	66073	1.9	15.9	Vision	Connecticut	Conn.	CT	Connecticut	9
+80	CT	3516334	416285	171404	4.9	41.2	Cognitive	Connecticut	Conn.	CT	Connecticut	9
+81	CT	3516334	416285	199169	5.7	47.8	Ambulatory	Connecticut	Conn.	CT	Connecticut	9
+82	CT	3516334	416285	83526	2.4	20.1	Self-Care	Connecticut	Conn.	CT	Connecticut	9
+83	CT	3516334	416285	157864	4.5	37.9	Independent Living	Connecticut	Conn.	CT	Connecticut	9
+84	NY	19216347	2232990	527391	2.7	23.6	Hearing	New York	N.Y.	NY	New York	36
+85	NY	19216347	2232990	385428	2.0	17.3	Vision	New York	N.Y.	NY	New York	36
+86	NY	19216347	2232990	828780	4.3	37.1	Cognitive	New York	N.Y.	NY	New York	36
+87	NY	19216347	2232990	1225095	6.4	54.9	Ambulatory	New York	N.Y.	NY	New York	36
+88	NY	19216347	2232990	514437	2.7	23.0	Self-Care	New York	N.Y.	NY	New York	36
+89	NY	19216347	2232990	894917	4.7	40.1	Independent Living	New York	N.Y.	NY	New York	36
+90	DE	956549	128630	32374	3.4	25.2	Hearing	Delaware	Del.	DE	Delaware	10
+91	DE	956549	128630	20183	2.1	15.7	Vision	Delaware	Del.	DE	Delaware	10
+92	DE	956549	128630	55679	5.8	43.3	Cognitive	Delaware	Del.	DE	Delaware	10
+93	DE	956549	128630	61742	6.5	48.0	Ambulatory	Delaware	Del.	DE	Delaware	10
+94	DE	956549	128630	23153	2.4	18.0	Self-Care	Delaware	Del.	DE	Delaware	10
+95	DE	956549	128630	43096	4.5	33.5	Independent Living	Delaware	Del.	DE	Delaware	10
+96	NC	10286784	1371267	371743	3.6	27.1	Hearing	North Carolina	N.C.	NC	North Carolina	37
+97	NC	10286784	1371267	243774	2.4	17.8	Vision	North Carolina	N.C.	NC	North Carolina	37
+98	NC	10286784	1371267	523889	5.1	38.2	Cognitive	North Carolina	N.C.	NC	North Carolina	37
+99	NC	10286784	1371267	741020	7.2	54.0	Ambulatory	North Carolina	N.C.	NC	North Carolina	37
+100	NC	10286784	1371267	265383	2.6	19.4	Self-Care	North Carolina	N.C.	NC	North Carolina	37
+101	NC	10286784	1371267	496173	4.8	36.2	Independent Living	North Carolina	N.C.	NC	North Carolina	37
+102	DC	696740	80506	12924	1.9	16.1	Hearing	District of Columbia	D.C.	DC	District of Columbia	11
+103	DC	696740	80506	14243	2.0	17.7	Vision	District of Columbia	D.C.	DC	District of Columbia	11
+104	DC	696740	80506	32376	4.6	40.2	Cognitive	District of Columbia	D.C.	DC	District of Columbia	11
+105	DC	696740	80506	42632	6.1	53.0	Ambulatory	District of Columbia	D.C.	DC	District of Columbia	11
+106	DC	696740	80506	14189	2.0	17.6	Self-Care	District of Columbia	D.C.	DC	District of Columbia	11
+107	DC	696740	80506	31843	4.6	39.6	Independent Living	District of Columbia	D.C.	DC	District of Columbia	11
+108	ND	745320	84400	31223	4.2	37.0	Hearing	North Dakota	N.D.	ND	North Dakota	38
+109	ND	745320	84400	14595	2.0	17.3	Vision	North Dakota	N.D.	ND	North Dakota	38
+110	ND	745320	84400	27971	3.8	33.1	Cognitive	North Dakota	N.D.	ND	North Dakota	38
+111	ND	745320	84400	34977	4.7	41.4	Ambulatory	North Dakota	N.D.	ND	North Dakota	38
+112	ND	745320	84400	13043	1.7	15.5	Self-Care	North Dakota	N.D.	ND	North Dakota	38
+113	ND	745320	84400	25979	3.5	30.8	Independent Living	North Dakota	N.D.	ND	North Dakota	38
+114	FL	21159836	2892429	823749	3.9	28.5	Hearing	Florida	Fla.	FL	Florida	12
+115	FL	21159836	2892429	541634	2.6	18.7	Vision	Florida	Fla.	FL	Florida	12
+116	FL	21159836	2892429	1071096	5.1	37.0	Cognitive	Florida	Fla.	FL	Florida	12
+117	FL	21159836	2892429	1543979	7.3	53.4	Ambulatory	Florida	Fla.	FL	Florida	12
+118	FL	21159836	2892429	567289	2.7	19.6	Self-Care	Florida	Fla.	FL	Florida	12
+119	FL	21159836	2892429	1048969	5.0	36.3	Independent Living	Florida	Fla.	FL	Florida	12
+120	OH	11517862	1607396	432432	3.8	26.9	Hearing	Ohio	Ohio	OH	Ohio	39
+121	OH	11517862	1607396	264374	2.3	16.4	Vision	Ohio	Ohio	OH	Ohio	39
+122	OH	11517862	1607396	626668	5.4	39.0	Cognitive	Ohio	Ohio	OH	Ohio	39
+123	OH	11517862	1607396	805970	7.0	50.1	Ambulatory	Ohio	Ohio	OH	Ohio	39
+124	OH	11517862	1607396	282157	2.4	17.6	Self-Care	Ohio	Ohio	OH	Ohio	39
+125	OH	11517862	1607396	566208	4.9	35.2	Independent Living	Ohio	Ohio	OH	Ohio	39
+126	GA	10424810	1315079	337948	3.2	25.7	Hearing	Georgia	Ga.	GA	Georgia	13
+127	GA	10424810	1315079	255649	2.5	19.4	Vision	Georgia	Ga.	GA	Georgia	13
+128	GA	10424810	1315079	521682	5.0	39.7	Cognitive	Georgia	Ga.	GA	Georgia	13
+129	GA	10424810	1315079	689580	6.6	52.4	Ambulatory	Georgia	Ga.	GA	Georgia	13
+130	GA	10424810	1315079	237452	2.3	18.1	Self-Care	Georgia	Ga.	GA	Georgia	13
+131	GA	10424810	1315079	470539	4.5	35.8	Independent Living	Georgia	Ga.	GA	Georgia	13
+132	OK	3873840	613031	192793	5.0	31.4	Hearing	Oklahoma	Okla.	OK	Oklahoma	40
+133	OK	3873840	613031	128862	3.3	21.0	Vision	Oklahoma	Okla.	OK	Oklahoma	40
+134	OK	3873840	613031	222345	5.7	36.3	Cognitive	Oklahoma	Okla.	OK	Oklahoma	40
+135	OK	3873840	613031	318366	8.2	51.9	Ambulatory	Oklahoma	Okla.	OK	Oklahoma	40
+136	OK	3873840	613031	108401	2.8	17.7	Self-Care	Oklahoma	Okla.	OK	Oklahoma	40
+137	OK	3873840	613031	212296	5.5	34.6	Independent Living	Oklahoma	Okla.	OK	Oklahoma	40
+138	HI	1358944	160283	54738	4.0	34.2	Hearing	Hawaii	Hawaii	HI	Hawaii	15
+139	HI	1358944	160283	24684	1.8	15.4	Vision	Hawaii	Hawaii	HI	Hawaii	15
+140	HI	1358944	160283	55201	4.1	34.4	Cognitive	Hawaii	Hawaii	HI	Hawaii	15
+141	HI	1358944	160283	79291	5.8	49.5	Ambulatory	Hawaii	Hawaii	HI	Hawaii	15
+142	HI	1358944	160283	29533	2.2	18.4	Self-Care	Hawaii	Hawaii	HI	Hawaii	15
+143	HI	1358944	160283	65412	4.8	40.8	Independent Living	Hawaii	Hawaii	HI	Hawaii	15
+144	OR	4175931	616150	195582	4.7	31.7	Hearing	Oregon	Ore.	OR	Oregon	41
+145	OR	4175931	616150	102303	2.4	16.6	Vision	Oregon	Ore.	OR	Oregon	41
+146	OR	4175931	616150	255101	6.1	41.4	Cognitive	Oregon	Ore.	OR	Oregon	41
+147	OR	4175931	616150	282818	6.8	45.9	Ambulatory	Oregon	Ore.	OR	Oregon	41
+148	OR	4175931	616150	105181	2.5	17.1	Self-Care	Oregon	Ore.	OR	Oregon	41
+149	OR	4175931	616150	215230	5.2	34.9	Independent Living	Oregon	Ore.	OR	Oregon	41
+150	ID	1765304	244874	83047	4.7	33.9	Hearing	Idaho	Idaho	ID	Idaho	16
+151	ID	1765304	244874	39069	2.2	16.0	Vision	Idaho	Idaho	ID	Idaho	16
+152	ID	1765304	244874	93303	5.3	38.1	Cognitive	Idaho	Idaho	ID	Idaho	16
+153	ID	1765304	244874	111030	6.3	45.3	Ambulatory	Idaho	Idaho	ID	Idaho	16
+154	ID	1765304	244874	34831	2.0	14.2	Self-Care	Idaho	Idaho	ID	Idaho	16
+155	ID	1765304	244874	70476	4.0	28.8	Independent Living	Idaho	Idaho	ID	Idaho	16
+156	PA	12593310	1795737	484373	3.8	27.0	Hearing	Pennsylvania	Pa.	PA	Pennsylvania	42
+157	PA	12593310	1795737	303469	2.4	16.9	Vision	Pennsylvania	Pa.	PA	Pennsylvania	42
+158	PA	12593310	1795737	735879	5.8	41.0	Cognitive	Pennsylvania	Pa.	PA	Pennsylvania	42
+159	PA	12593310	1795737	893529	7.1	49.8	Ambulatory	Pennsylvania	Pa.	PA	Pennsylvania	42
+160	PA	12593310	1795737	348668	2.8	19.4	Self-Care	Pennsylvania	Pa.	PA	Pennsylvania	42
+161	PA	12593310	1795737	669154	5.3	37.3	Independent Living	Pennsylvania	Pa.	PA	Pennsylvania	42
+162	IL	12490301	1419972	375837	3.0	26.5	Hearing	Illinois	Ill.	IL	Illinois	17
+163	IL	12490301	1419972	252901	2.0	17.8	Vision	Illinois	Ill.	IL	Illinois	17
+164	IL	12490301	1419972	513415	4.1	36.2	Cognitive	Illinois	Ill.	IL	Illinois	17
+165	IL	12490301	1419972	740303	5.9	52.1	Ambulatory	Illinois	Ill.	IL	Illinois	17
+166	IL	12490301	1419972	274119	2.2	19.3	Self-Care	Illinois	Ill.	IL	Illinois	17
+167	IL	12490301	1419972	555878	4.5	39.1	Independent Living	Illinois	Ill.	IL	Illinois	17
+168	RI	1044132	135845	36825	3.5	27.1	Hearing	Rhode Island	R.I.	RI	Rhode Island	44
+169	RI	1044132	135845	20375	2.0	15.0	Vision	Rhode Island	R.I.	RI	Rhode Island	44
+170	RI	1044132	135845	55833	5.3	41.1	Cognitive	Rhode Island	R.I.	RI	Rhode Island	44
+171	RI	1044132	135845	66088	6.3	48.6	Ambulatory	Rhode Island	R.I.	RI	Rhode Island	44
+172	RI	1044132	135845	27914	2.7	20.5	Self-Care	Rhode Island	R.I.	RI	Rhode Island	44
+173	RI	1044132	135845	55748	5.3	41.0	Independent Living	Rhode Island	R.I.	RI	Rhode Island	44
+174	IN	6632029	899869	254783	3.8	28.3	Hearing	Indiana	Ind.	IN	Indiana	18
+175	IN	6632029	899869	158612	2.4	17.6	Vision	Indiana	Ind.	IN	Indiana	18
+176	IN	6632029	899869	343451	5.2	38.2	Cognitive	Indiana	Ind.	IN	Indiana	18
+177	IN	6632029	899869	453213	6.8	50.4	Ambulatory	Indiana	Ind.	IN	Indiana	18
+178	IN	6632029	899869	163070	2.5	18.1	Self-Care	Indiana	Ind.	IN	Indiana	18
+179	IN	6632029	899869	316574	4.8	35.2	Independent Living	Indiana	Ind.	IN	Indiana	18
+180	SC	5056002	724298	194421	3.8	26.8	Hearing	South Carolina	S.C.	SC	South Carolina	45
+181	SC	5056002	724298	150224	3.0	20.7	Vision	South Carolina	S.C.	SC	South Carolina	45
+182	SC	5056002	724298	262049	5.2	36.2	Cognitive	South Carolina	S.C.	SC	South Carolina	45
+183	SC	5056002	724298	374996	7.4	51.8	Ambulatory	South Carolina	S.C.	SC	South Carolina	45
+184	SC	5056002	724298	139968	2.8	19.3	Self-Care	South Carolina	S.C.	SC	South Carolina	45
+185	SC	5056002	724298	264229	5.2	36.5	Independent Living	South Carolina	S.C.	SC	South Carolina	45
+186	IA	3112602	378571	115474	3.7	30.5	Hearing	Iowa	Iowa	IA	Iowa	19
+187	IA	3112602	378571	57456	1.8	15.2	Vision	Iowa	Iowa	IA	Iowa	19
+188	IA	3112602	378571	147074	4.7	38.8	Cognitive	Iowa	Iowa	IA	Iowa	19
+189	IA	3112602	378571	170402	5.5	45.0	Ambulatory	Iowa	Iowa	IA	Iowa	19
+190	IA	3112602	378571	62831	2.0	16.6	Self-Care	Iowa	Iowa	IA	Iowa	19
+191	IA	3112602	378571	127351	4.1	33.6	Independent Living	Iowa	Iowa	IA	Iowa	19
+192	SD	867844	104868	39582	4.6	37.7	Hearing	South Dakota	S.D.	SD	South Dakota	46
+193	SD	867844	104868	19651	2.3	18.7	Vision	South Dakota	S.D.	SD	South Dakota	46
+194	SD	867844	104868	33329	3.8	31.8	Cognitive	South Dakota	S.D.	SD	South Dakota	46
+195	SD	867844	104868	46364	5.3	44.2	Ambulatory	South Dakota	S.D.	SD	South Dakota	46
+196	SD	867844	104868	15011	1.7	14.3	Self-Care	South Dakota	S.D.	SD	South Dakota	46
+197	SD	867844	104868	26622	3.1	25.4	Independent Living	South Dakota	S.D.	SD	South Dakota	46
+198	KS	2853285	403009	126066	4.4	31.3	Hearing	Kansas	Kans.	KS	Kansas	20
+199	KS	2853285	403009	73340	2.6	18.2	Vision	Kansas	Kans.	KS	Kansas	20
+200	KS	2853285	403009	161411	5.7	40.1	Cognitive	Kansas	Kans.	KS	Kansas	20
+201	KS	2853285	403009	192687	6.8	47.8	Ambulatory	Kansas	Kans.	KS	Kansas	20
+202	KS	2853285	403009	67100	2.4	16.6	Self-Care	Kansas	Kans.	KS	Kansas	20
+203	KS	2853285	403009	133477	4.7	33.1	Independent Living	Kansas	Kans.	KS	Kansas	20
+204	TN	6720796	1030836	299786	4.5	29.1	Hearing	Tennessee	Tenn.	TN	Tennessee	47
+205	TN	6720796	1030836	206294	3.1	20.0	Vision	Tennessee	Tenn.	TN	Tennessee	47
+206	TN	6720796	1030836	405596	6.0	39.3	Cognitive	Tennessee	Tenn.	TN	Tennessee	47
+207	TN	6720796	1030836	535669	8.0	52.0	Ambulatory	Tennessee	Tenn.	TN	Tennessee	47
+208	TN	6720796	1030836	180076	2.7	17.5	Self-Care	Tennessee	Tenn.	TN	Tennessee	47
+209	TN	6720796	1030836	365439	5.4	35.5	Independent Living	Tennessee	Tenn.	TN	Tennessee	47
+210	KY	4384951	779842	221141	5.0	28.4	Hearing	Kentucky	Ky.	KY	Kentucky	21
+211	KY	4384951	779842	156235	3.6	20.0	Vision	Kentucky	Ky.	KY	Kentucky	21
+212	KY	4384951	779842	311687	7.1	40.0	Cognitive	Kentucky	Ky.	KY	Kentucky	21
+213	KY	4384951	779842	408316	9.3	52.4	Ambulatory	Kentucky	Ky.	KY	Kentucky	21
+214	KY	4384951	779842	140039	3.2	18.0	Self-Care	Kentucky	Ky.	KY	Kentucky	21
+215	KY	4384951	779842	272966	6.2	35.0	Independent Living	Kentucky	Ky.	KY	Kentucky	21
+216	TX	28522360	3282543	917254	3.2	27.9	Hearing	Texas	Tex.	TX	Texas	48
+217	TX	28522360	3282543	694392	2.4	21.2	Vision	Texas	Tex.	TX	Texas	48
+218	TX	28522360	3282543	1269758	4.5	38.7	Cognitive	Texas	Tex.	TX	Texas	48
+219	TX	28522360	3282543	1636283	5.7	49.8	Ambulatory	Texas	Tex.	TX	Texas	48
+220	TX	28522360	3282543	665868	2.3	20.3	Self-Care	Texas	Tex.	TX	Texas	48
+221	TX	28522360	3282543	1146186	4.0	34.9	Independent Living	Texas	Tex.	TX	Texas	48
+222	LA	4541927	720434	188131	4.1	26.1	Hearing	Louisiana	La.	LA	Louisiana	22
+223	LA	4541927	720434	174603	3.8	24.2	Vision	Louisiana	La.	LA	Louisiana	22
+224	LA	4541927	720434	277712	6.1	38.5	Cognitive	Louisiana	La.	LA	Louisiana	22
+225	LA	4541927	720434	358915	7.9	49.8	Ambulatory	Louisiana	La.	LA	Louisiana	22
+226	LA	4541927	720434	138551	3.1	19.2	Self-Care	Louisiana	La.	LA	Louisiana	22
+227	LA	4541927	720434	247643	5.5	34.4	Independent Living	Louisiana	La.	LA	Louisiana	22
+228	UT	3180641	289731	87251	2.7	30.1	Hearing	Utah	Utah	UT	Utah	49
+229	UT	3180641	289731	45285	1.4	15.6	Vision	Utah	Utah	UT	Utah	49
+230	UT	3180641	289731	124144	3.9	42.8	Cognitive	Utah	Utah	UT	Utah	49
+231	UT	3180641	289731	119798	3.8	41.3	Ambulatory	Utah	Utah	UT	Utah	49
+232	UT	3180641	289731	43924	1.4	15.2	Self-Care	Utah	Utah	UT	Utah	49
+233	UT	3180641	289731	94776	3.0	32.7	Independent Living	Utah	Utah	UT	Utah	49
+234	ME	1327745	224290	71252	5.4	31.8	Hearing	Maine	Maine	ME	Maine	23
+235	ME	1327745	224290	26610	2.0	11.9	Vision	Maine	Maine	ME	Maine	23
+236	ME	1327745	224290	92003	6.9	41.0	Cognitive	Maine	Maine	ME	Maine	23
+237	ME	1327745	224290	102267	7.7	45.6	Ambulatory	Maine	Maine	ME	Maine	23
+238	ME	1327745	224290	34354	2.6	15.3	Self-Care	Maine	Maine	ME	Maine	23
+239	ME	1327745	224290	80900	6.1	36.1	Independent Living	Maine	Maine	ME	Maine	23
+240	VT	617798	91411	29854	4.8	32.7	Hearing	Vermont	Vt.	VT	Vermont	50
+241	VT	617798	91411	14079	2.3	15.4	Vision	Vermont	Vt.	VT	Vermont	50
+242	VT	617798	91411	36910	6.0	40.4	Cognitive	Vermont	Vt.	VT	Vermont	50
+243	VT	617798	91411	41375	6.7	45.3	Ambulatory	Vermont	Vt.	VT	Vermont	50
+244	VT	617798	91411	13276	2.1	14.5	Self-Care	Vermont	Vt.	VT	Vermont	50
+245	VT	617798	91411	29214	4.7	32.0	Independent Living	Vermont	Vt.	VT	Vermont	50
+246	MD	5948457	669208	157080	2.6	23.5	Hearing	Maryland	Md.	MD	Maryland	24
+247	MD	5948457	669208	111910	1.9	16.7	Vision	Maryland	Md.	MD	Maryland	24
+248	MD	5948457	669208	264479	4.4	39.5	Cognitive	Maryland	Md.	MD	Maryland	24
+249	MD	5948457	669208	337727	5.7	50.5	Ambulatory	Maryland	Md.	MD	Maryland	24
+250	MD	5948457	669208	127172	2.1	19.0	Self-Care	Maryland	Md.	MD	Maryland	24
+251	MD	5948457	669208	241423	4.1	36.1	Independent Living	Maryland	Md.	MD	Maryland	24
+252	VA	8308751	1006318	287030	3.5	28.5	Hearing	Virginia	Va.	VA	Virginia	51
+253	VA	8308751	1006318	186968	2.3	18.6	Vision	Virginia	Va.	VA	Virginia	51
+254	VA	8308751	1006318	366385	4.4	36.4	Cognitive	Virginia	Va.	VA	Virginia	51
+255	VA	8308751	1006318	496116	6.0	49.3	Ambulatory	Virginia	Va.	VA	Virginia	51
+256	VA	8308751	1006318	191270	2.3	19.0	Self-Care	Virginia	Va.	VA	Virginia	51
+257	VA	8308751	1006318	371692	4.5	36.9	Independent Living	Virginia	Va.	VA	Virginia	51
+258	MA	6821140	787330	211693	3.1	26.9	Hearing	Massachusetts	Mass.	MA	Massachusetts	25
+259	MA	6821140	787330	114074	1.7	14.5	Vision	Massachusetts	Mass.	MA	Massachusetts	25
+260	MA	6821140	787330	327060	4.8	41.5	Cognitive	Massachusetts	Mass.	MA	Massachusetts	25
+261	MA	6821140	787330	369112	5.4	46.9	Ambulatory	Massachusetts	Mass.	MA	Massachusetts	25
+262	MA	6821140	787330	157060	2.3	19.9	Self-Care	Massachusetts	Mass.	MA	Massachusetts	25
+263	MA	6821140	787330	296654	4.3	37.7	Independent Living	Massachusetts	Mass.	MA	Massachusetts	25
+264	WA	7495588	958138	288785	3.9	30.1	Hearing	Washington	Wash.	WA	Washington	53
+265	WA	7495588	958138	148831	2.0	15.5	Vision	Washington	Wash.	WA	Washington	53
+266	WA	7495588	958138	381831	5.1	39.9	Cognitive	Washington	Wash.	WA	Washington	53
+267	WA	7495588	958138	462304	6.2	48.3	Ambulatory	Washington	Wash.	WA	Washington	53
+268	WA	7495588	958138	179596	2.4	18.7	Self-Care	Washington	Wash.	WA	Washington	53
+269	WA	7495588	958138	344404	4.6	35.9	Independent Living	Washington	Wash.	WA	Washington	53
+270	MI	9880650	1400651	380552	3.9	27.2	Hearing	Michigan	Mich.	MI	Michigan	26
+271	MI	9880650	1400651	224297	2.3	16.0	Vision	Michigan	Mich.	MI	Michigan	26
+272	MI	9880650	1400651	550263	5.6	39.3	Cognitive	Michigan	Mich.	MI	Michigan	26
+273	MI	9880650	1400651	689840	7.0	49.3	Ambulatory	Michigan	Mich.	MI	Michigan	26
+274	MI	9880650	1400651	268436	2.7	19.2	Self-Care	Michigan	Mich.	MI	Michigan	26
+275	MI	9880650	1400651	508747	5.1	36.3	Independent Living	Michigan	Mich.	MI	Michigan	26
+276	WV	1763441	349732	115631	6.6	33.1	Hearing	West Virginia	W.Va.	WV	West Virginia	54
+277	WV	1763441	349732	69713	4.0	19.9	Vision	West Virginia	W.Va.	WV	West Virginia	54
+278	WV	1763441	349732	133785	7.6	38.3	Cognitive	West Virginia	W.Va.	WV	West Virginia	54
+279	WV	1763441	349732	193559	11.0	55.3	Ambulatory	West Virginia	W.Va.	WV	West Virginia	54
+280	WV	1763441	349732	66337	3.8	19.0	Self-Care	West Virginia	W.Va.	WV	West Virginia	54
+281	WV	1763441	349732	128181	7.3	36.7	Independent Living	West Virginia	W.Va.	WV	West Virginia	54
+282	MN	5581777	603101	191124	3.4	31.7	Hearing	Minnesota	Minn.	MN	Minnesota	27
+283	MN	5581777	603101	86010	1.5	14.3	Vision	Minnesota	Minn.	MN	Minnesota	27
+284	MN	5581777	603101	237773	4.3	39.4	Cognitive	Minnesota	Minn.	MN	Minnesota	27
+285	MN	5581777	603101	251936	4.5	41.8	Ambulatory	Minnesota	Minn.	MN	Minnesota	27
+286	MN	5581777	603101	106179	1.9	17.6	Self-Care	Minnesota	Minn.	MN	Minnesota	27
+287	MN	5581777	603101	212076	3.8	35.2	Independent Living	Minnesota	Minn.	MN	Minnesota	27
+288	WI	5751698	685896	211157	3.7	30.8	Hearing	Wisconsin	Wis.	WI	Wisconsin	55
+289	WI	5751698	685896	102660	1.8	15.0	Vision	Wisconsin	Wis.	WI	Wisconsin	55
+290	WI	5751698	685896	257095	4.5	37.5	Cognitive	Wisconsin	Wis.	WI	Wisconsin	55
+291	WI	5751698	685896	332467	5.8	48.5	Ambulatory	Wisconsin	Wis.	WI	Wisconsin	55
+292	WI	5751698	685896	130312	2.3	19.0	Self-Care	Wisconsin	Wis.	WI	Wisconsin	55
+293	WI	5751698	685896	225126	3.9	32.8	Independent Living	Wisconsin	Wis.	WI	Wisconsin	55
+294	MS	2905826	489036	123801	4.3	25.3	Hearing	Mississippi	Miss.	MS	Mississippi	28
+295	MS	2905826	489036	106614	3.7	21.8	Vision	Mississippi	Miss.	MS	Mississippi	28
+296	MS	2905826	489036	176514	6.1	36.1	Cognitive	Mississippi	Miss.	MS	Mississippi	28
+297	MS	2905826	489036	277043	9.5	56.7	Ambulatory	Mississippi	Miss.	MS	Mississippi	28
+298	MS	2905826	489036	96875	3.3	19.8	Self-Care	Mississippi	Miss.	MS	Mississippi	28
+299	MS	2905826	489036	181126	6.2	37.0	Independent Living	Mississippi	Miss.	MS	Mississippi	28
+300	WY	568984	77816	25673	4.5	33.0	Hearing	Wyoming	Wyo.	WY	Wyoming	56
+301	WY	568984	77816	16196	2.8	20.8	Vision	Wyoming	Wyo.	WY	Wyoming	56
+302	WY	568984	77816	25219	4.4	32.4	Cognitive	Wyoming	Wyo.	WY	Wyoming	56
+303	WY	568984	77816	33916	6.0	43.6	Ambulatory	Wyoming	Wyo.	WY	Wyoming	56
+304	WY	568984	77816	8212	1.4	10.6	Self-Care	Wyoming	Wyo.	WY	Wyoming	56
+305	WY	568984	77816	20421	3.6	26.2	Independent Living	Wyoming	Wyo.	WY	Wyoming	56

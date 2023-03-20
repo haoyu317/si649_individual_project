@@ -1,0 +1,205 @@
+	state	id	value	item
+0	Missouri	29	5139712	Healthy Population
+1	Missouri	29	888763	Disability Population
+2	Missouri	29	14.7	Disability Percentage
+3	Missouri	29	6028475	Total Population
+4	Alabama	1	4045525	Healthy Population
+5	Alabama	1	776991	Disability Population
+6	Alabama	1	16.1	Disability Percentage
+7	Alabama	1	4822516	Total Population
+8	Montana	30	913453	Healthy Population
+9	Montana	30	139511	Disability Population
+10	Montana	30	13.2	Disability Percentage
+11	Montana	30	1052964	Total Population
+12	Alaska	2	626030	Healthy Population
+13	Alaska	2	81224	Disability Population
+14	Alaska	2	11.5	Disability Percentage
+15	Alaska	2	707254	Total Population
+16	Nebraska	31	1676836	Healthy Population
+17	Nebraska	31	228223	Disability Population
+18	Nebraska	31	12.0	Disability Percentage
+19	Nebraska	31	1905059	Total Population
+20	Arizona	4	6227663	Healthy Population
+21	Arizona	4	939236	Disability Population
+22	Arizona	4	13.1	Disability Percentage
+23	Arizona	4	7166899	Total Population
+24	Nevada	32	2670916	Healthy Population
+25	Nevada	32	372627	Disability Population
+26	Nevada	32	12.2	Disability Percentage
+27	Nevada	32	3043543	Total Population
+28	Arkansas	5	2443617	Healthy Population
+29	Arkansas	5	518118	Disability Population
+30	Arkansas	5	17.5	Disability Percentage
+31	Arkansas	5	2961735	Total Population
+32	New Hampshire	33	1170413	Healthy Population
+33	New Hampshire	33	172882	Disability Population
+34	New Hampshire	33	12.9	Disability Percentage
+35	New Hampshire	33	1343295	Total Population
+36	California	6	34876166	Healthy Population
+37	California	6	4131700	Disability Population
+38	California	6	10.6	Disability Percentage
+39	California	6	39007866	Total Population
+40	New Jersey	34	7868294	Healthy Population
+41	New Jersey	34	908500	Disability Population
+42	New Jersey	34	10.4	Disability Percentage
+43	New Jersey	34	8776794	Total Population
+44	Colorado	8	5064693	Healthy Population
+45	Colorado	8	599443	Disability Population
+46	Colorado	8	10.6	Disability Percentage
+47	Colorado	8	5664136	Total Population
+48	New Mexico	35	1731464	Healthy Population
+49	New Mexico	35	327218	Disability Population
+50	New Mexico	35	15.9	Disability Percentage
+51	New Mexico	35	2058682	Total Population
+52	Connecticut	9	3100049	Healthy Population
+53	Connecticut	9	416285	Disability Population
+54	Connecticut	9	11.8	Disability Percentage
+55	Connecticut	9	3516334	Total Population
+56	New York	36	16983357	Healthy Population
+57	New York	36	2232990	Disability Population
+58	New York	36	11.6	Disability Percentage
+59	New York	36	19216347	Total Population
+60	Delaware	10	827919	Healthy Population
+61	Delaware	10	128630	Disability Population
+62	Delaware	10	13.4	Disability Percentage
+63	Delaware	10	956549	Total Population
+64	North Carolina	37	8915517	Healthy Population
+65	North Carolina	37	1371267	Disability Population
+66	North Carolina	37	13.3	Disability Percentage
+67	North Carolina	37	10286784	Total Population
+68	District of Columbia	11	616234	Healthy Population
+69	District of Columbia	11	80506	Disability Population
+70	District of Columbia	11	11.6	Disability Percentage
+71	District of Columbia	11	696740	Total Population
+72	North Dakota	38	660920	Healthy Population
+73	North Dakota	38	84400	Disability Population
+74	North Dakota	38	11.3	Disability Percentage
+75	North Dakota	38	745320	Total Population
+76	Florida	12	18267407	Healthy Population
+77	Florida	12	2892429	Disability Population
+78	Florida	12	13.7	Disability Percentage
+79	Florida	12	21159836	Total Population
+80	Ohio	39	9910466	Healthy Population
+81	Ohio	39	1607396	Disability Population
+82	Ohio	39	14.0	Disability Percentage
+83	Ohio	39	11517862	Total Population
+84	Georgia	13	9109731	Healthy Population
+85	Georgia	13	1315079	Disability Population
+86	Georgia	13	12.6	Disability Percentage
+87	Georgia	13	10424810	Total Population
+88	Oklahoma	40	3260809	Healthy Population
+89	Oklahoma	40	613031	Disability Population
+90	Oklahoma	40	15.8	Disability Percentage
+91	Oklahoma	40	3873840	Total Population
+92	Hawaii	15	1198661	Healthy Population
+93	Hawaii	15	160283	Disability Population
+94	Hawaii	15	11.8	Disability Percentage
+95	Hawaii	15	1358944	Total Population
+96	Oregon	41	3559781	Healthy Population
+97	Oregon	41	616150	Disability Population
+98	Oregon	41	14.8	Disability Percentage
+99	Oregon	41	4175931	Total Population
+100	Idaho	16	1520430	Healthy Population
+101	Idaho	16	244874	Disability Population
+102	Idaho	16	13.9	Disability Percentage
+103	Idaho	16	1765304	Total Population
+104	Pennsylvania	42	10797573	Healthy Population
+105	Pennsylvania	42	1795737	Disability Population
+106	Pennsylvania	42	14.3	Disability Percentage
+107	Pennsylvania	42	12593310	Total Population
+108	Illinois	17	11070329	Healthy Population
+109	Illinois	17	1419972	Disability Population
+110	Illinois	17	11.4	Disability Percentage
+111	Illinois	17	12490301	Total Population
+112	Rhode Island	44	908287	Healthy Population
+113	Rhode Island	44	135845	Disability Population
+114	Rhode Island	44	13.0	Disability Percentage
+115	Rhode Island	44	1044132	Total Population
+116	Indiana	18	5732160	Healthy Population
+117	Indiana	18	899869	Disability Population
+118	Indiana	18	13.6	Disability Percentage
+119	Indiana	18	6632029	Total Population
+120	South Carolina	45	4331704	Healthy Population
+121	South Carolina	45	724298	Disability Population
+122	South Carolina	45	14.3	Disability Percentage
+123	South Carolina	45	5056002	Total Population
+124	Iowa	19	2734031	Healthy Population
+125	Iowa	19	378571	Disability Population
+126	Iowa	19	12.2	Disability Percentage
+127	Iowa	19	3112602	Total Population
+128	South Dakota	46	762976	Healthy Population
+129	South Dakota	46	104868	Disability Population
+130	South Dakota	46	12.1	Disability Percentage
+131	South Dakota	46	867844	Total Population
+132	Kansas	20	2450276	Healthy Population
+133	Kansas	20	403009	Disability Population
+134	Kansas	20	14.1	Disability Percentage
+135	Kansas	20	2853285	Total Population
+136	Tennessee	47	5689960	Healthy Population
+137	Tennessee	47	1030836	Disability Population
+138	Tennessee	47	15.3	Disability Percentage
+139	Tennessee	47	6720796	Total Population
+140	Kentucky	21	3605109	Healthy Population
+141	Kentucky	21	779842	Disability Population
+142	Kentucky	21	17.8	Disability Percentage
+143	Kentucky	21	4384951	Total Population
+144	Texas	48	25239817	Healthy Population
+145	Texas	48	3282543	Disability Population
+146	Texas	48	11.5	Disability Percentage
+147	Texas	48	28522360	Total Population
+148	Louisiana	22	3821493	Healthy Population
+149	Louisiana	22	720434	Disability Population
+150	Louisiana	22	15.9	Disability Percentage
+151	Louisiana	22	4541927	Total Population
+152	Utah	49	2890910	Healthy Population
+153	Utah	49	289731	Disability Population
+154	Utah	49	9.1	Disability Percentage
+155	Utah	49	3180641	Total Population
+156	Maine	23	1103455	Healthy Population
+157	Maine	23	224290	Disability Population
+158	Maine	23	16.9	Disability Percentage
+159	Maine	23	1327745	Total Population
+160	Vermont	50	526387	Healthy Population
+161	Vermont	50	91411	Disability Population
+162	Vermont	50	14.8	Disability Percentage
+163	Vermont	50	617798	Total Population
+164	Maryland	24	5279249	Healthy Population
+165	Maryland	24	669208	Disability Population
+166	Maryland	24	11.3	Disability Percentage
+167	Maryland	24	5948457	Total Population
+168	Virginia	51	7302433	Healthy Population
+169	Virginia	51	1006318	Disability Population
+170	Virginia	51	12.1	Disability Percentage
+171	Virginia	51	8308751	Total Population
+172	Massachusetts	25	6033810	Healthy Population
+173	Massachusetts	25	787330	Disability Population
+174	Massachusetts	25	11.5	Disability Percentage
+175	Massachusetts	25	6821140	Total Population
+176	Washington	53	6537450	Healthy Population
+177	Washington	53	958138	Disability Population
+178	Washington	53	12.8	Disability Percentage
+179	Washington	53	7495588	Total Population
+180	Michigan	26	8479999	Healthy Population
+181	Michigan	26	1400651	Disability Population
+182	Michigan	26	14.2	Disability Percentage
+183	Michigan	26	9880650	Total Population
+184	West Virginia	54	1413709	Healthy Population
+185	West Virginia	54	349732	Disability Population
+186	West Virginia	54	19.8	Disability Percentage
+187	West Virginia	54	1763441	Total Population
+188	Minnesota	27	4978676	Healthy Population
+189	Minnesota	27	603101	Disability Population
+190	Minnesota	27	10.8	Disability Percentage
+191	Minnesota	27	5581777	Total Population
+192	Wisconsin	55	5065802	Healthy Population
+193	Wisconsin	55	685896	Disability Population
+194	Wisconsin	55	11.9	Disability Percentage
+195	Wisconsin	55	5751698	Total Population
+196	Mississippi	28	2416790	Healthy Population
+197	Mississippi	28	489036	Disability Population
+198	Mississippi	28	16.8	Disability Percentage
+199	Mississippi	28	2905826	Total Population
+200	Wyoming	56	491168	Healthy Population
+201	Wyoming	56	77816	Disability Population
+202	Wyoming	56	13.7	Disability Percentage
+203	Wyoming	56	568984	Total Population
