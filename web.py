@@ -287,9 +287,9 @@ with col5:
 # st.altair_chart(chart2)
 
 
-# chart3 = ((education | employment) & (earning | poverty))
-# chart3 = chart3.configure_title(fontSize=30)
-# st.altair_chart(chart3)
+chart3 = ((education | employment) & (earning | poverty))
+chart3 = chart3.configure_title(fontSize=30)
+st.altair_chart(chart3)
 
 
 
