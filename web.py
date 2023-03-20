@@ -254,7 +254,7 @@ poverty = alt.Chart(df).mark_line(point=True).encode(
     height = 250
 )
 
-col1, col2, col3 = st.columns([1,6,1])
+col1, col2, col3 = st.columns([2,6,1])
 
 with col2:
   chart1 = ((background1 )| ( (( bar_count_selection   & bar_percent_selection ) | pie_selection))).properties(
