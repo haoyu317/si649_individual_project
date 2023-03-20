@@ -286,10 +286,13 @@ with col5:
 #     )
 # st.altair_chart(chart2)
 
+col7, col8, col9 = st.columns([2,6,1])
 
-# chart3 = ((education | employment) & (earning | poverty))
-# chart3 = chart3.configure_title(fontSize=30)
-# st.altair_chart(chart3)
+with col8:
+  chart3 = ((education | employment) & (earning | poverty))
+  chart3 = chart3.configure_title(fontSize=30)
+  st.altair_chart(chart3)
+
 
 
 
