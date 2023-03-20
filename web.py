@@ -263,7 +263,9 @@ with col2:
   chart1 = chart1.configure_title(fontSize=30)
   st.altair_chart(chart1)
 
-
+st.write("")
+st.write("")
+st.write("")
 col4, col5, col6 = st.columns([2,6,1])
 
 with col5:
