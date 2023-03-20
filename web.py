@@ -254,37 +254,37 @@ poverty = alt.Chart(df).mark_line(point=True).encode(
     height = 250
 )
 
-# col1, col2, col3 = st.columns([1,6,1])
+col1, col2, col3 = st.columns([1,6,1])
 
-# with col2:
-#     chart1 = ((background1 )| ( (( bar_count_selection   & bar_percent_selection ) | pie_selection))).properties(
+with col2:
+  chart1 = ((background1 )| ( (( bar_count_selection   & bar_percent_selection ) | pie_selection))).properties(
+          title = 'State-Level Information Associated With People With Disability'
+      )
+  chart1 = chart1.configure_title(fontSize=30)
+  st.altair_chart(chart1)
+
+
+col4, col5, col6 = st.columns([2,6,1])
+
+with col5:
+    chart2 = (background2 | (total_selection & per_selection)).properties(
+        title = 'State-Level Medical Expenditures Associated With Disability'
+    )
+    chart2 = chart2.configure_title(fontSize=30)
+    st.altair_chart(chart2)
+
+
+# chart1 = ((background1 )| ( (( bar_count_selection   & bar_percent_selection ) | pie_selection))).properties(
 #         title = 'State-Level Information Associated With People With Disability'
 #     )
-#     chart_revise1 = chart1.configure_title(fontSize=30)
-#     st.altair_chart(chart_revise1)
+# chart1 = chart1.configure_title(fontSize=30)
+# st.altair_chart(chart1)
 
-
-# col4, col5, col6 = st.columns([2,6,1])
-
-# with col5:
-#     chart2 = (background2 | (total_selection & per_selection)).properties(
-#         title = 'State-Level Medical Expenditures Associated With Disability'
+# chart2 = (background2 | (total_selection & per_selection))
+# chart2 = chart2.configure_title(fontSize=30).properties(
+#         title = 'State-Level Information Associated With People With Disability'
 #     )
-#     chart2 = chart2.configure_title(fontSize=30)
-#     st.altair_chart(chart2)
-
-
-chart1 = ((background1 )| ( (( bar_count_selection   & bar_percent_selection ) | pie_selection))).properties(
-        title = 'State-Level Information Associated With People With Disability'
-    )
-chart1 = chart1.configure_title(fontSize=30)
-st.altair_chart(chart1)
-
-chart2 = (background2 | (total_selection & per_selection))
-chart2 = chart2.configure_title(fontSize=30).properties(
-        title = 'State-Level Information Associated With People With Disability'
-    )
-st.altair_chart(chart2)
+# st.altair_chart(chart2)
 
 
 chart3 = ((education | employment) & (earning | poverty))
